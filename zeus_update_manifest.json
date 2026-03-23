@@ -1,9 +1,9 @@
 {
   "app_name": "ZeusInteg",
   "channel": "stable",
-  "version": "1.0.6",
-  "zip_url": "https://github.com/1dkstjdgk-hash/zeus-updates/releases/download/zeus_update_1.0.6/ZeusIntegProtectedV1_v1.0.6_win64.zip",
-  "sha256": "a4ae0790958d4928a50b9da6b0093179c01f9de331b31283c4915e4a08176e65",
+  "version": "1.0.7",
+  "zip_url": "https://github.com/1dkstjdgk-hash/zeus-updates/releases/download/v1.0.7/ZeusIntegProtectedV1_win64.zip",
+  "sha256": "2ae824f5167077cba9dadf5a7ed48c2e2915f2e9bbce20cf1581735849873b57",
   "exe_name": "ZeusIntegProtectedV1.exe",
-  "published_at_utc": "2026-03-22T14:10:12.414967+00:00"
+  "published_at_utc": "2026-03-23T06:25:48.682711+00:00"
 }
